@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\conta\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\conta\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_MathClass.1228499632.00" t="ExcludeRecursive" />
+    <e p="C:\Users\conta\Desktop\Shapes-master\Scripts\Editor" t="Include">
+      <e p="Components" t="Include">
+        <e p="ConeEditor.cs" t="Include" />
+        <e p="CuboidEditor.cs" t="Include" />
+        <e p="DiscEditor.cs" t="Include" />
+        <e p="LineEditor.cs" t="Include" />
+        <e p="PolylineEditor.cs" t="Include" />
+        <e p="QuadEditor.cs" t="Include" />
+        <e p="RectangleEditor.cs" t="Include" />
+        <e p="ShapeRendererEditor.cs" t="Include" />
+        <e p="SphereEditor.cs" t="Include" />
+        <e p="TorusEditor.cs" t="Include" />
+        <e p="TriangleEditor.cs" t="Include" />
+      </e>
+      <e p="Shapes Editor.asmdef" t="Include" />
+      <e p="Utils" t="Include">
+        <e p="Codegen" t="Include">
+          <e p="CodegenDrawOverloads.cs" t="Include" />
+          <e p="CodegenShaders.cs" t="Include" />
+          <e p="IParamSelectors.cs" t="Include" />
+          <e p="OverloadGenerator.cs" t="Include" />
+        </e>
+        <e p="MenuItems.cs" t="Include" />
+        <e p="ShaderBuilder.cs" t="Include" />
+        <e p="ShapesUI.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\conta\Desktop\Shapes-master\Scripts\Runtime" t="Include">
+      <e p="Components" t="Include">
+        <e p="Cone.cs" t="Include" />
+        <e p="Cuboid.cs" t="Include" />
+        <e p="Disc.cs" t="Include" />
+        <e p="Line.cs" t="Include" />
+        <e p="Polyline.cs" t="Include" />
+        <e p="Quad.cs" t="Include" />
+        <e p="Rectangle.cs" t="Include" />
+        <e p="ShapeRenderer.cs" t="Include" />
+        <e p="Sphere.cs" t="Include" />
+        <e p="Torus.cs" t="Include" />
+        <e p="Triangle.cs" t="Include" />
+      </e>
+      <e p="Immediate Mode" t="Include">
+        <e p="Draw.cs" t="Include" />
+        <e p="DrawHelpers.cs" t="Include" />
+        <e p="DrawOverloads.cs" t="Include" />
+        <e p="DrawState.cs" t="Include" />
+        <e p="PolylinePath.cs" t="Include" />
+      </e>
+      <e p="Microtypes" t="Include">
+        <e p="AngularUnit.cs" t="Include" />
+        <e p="ArcEndCap.cs" t="Include" />
+        <e p="DestroyOnAssemblyReload.cs" t="Include" />
+        <e p="LineEndCap.cs" t="Include" />
+        <e p="LineGeometry.cs" t="Include" />
+        <e p="MeshUpdateMode.cs" t="Include" />
+        <e p="PolylineGeometry.cs" t="Include" />
+        <e p="PolylineJoins.cs" t="Include" />
+        <e p="PolylinePoint.cs" t="Include" />
+        <e p="RectPivot.cs" t="Include" />
+        <e p="ShapesBlendMode.cs" t="Include" />
+        <e p="TextAlign.cs" t="Include" />
+        <e p="ThicknessSpace.cs" t="Include" />
+      </e>
+      <e p="Shapes Runtime.asmdef" t="Include" />
+      <e p="ShapesConfig.cs" t="Include" />
+      <e p="Utils" t="Include">
+        <e p="ShapesAssets.cs" t="Include" />
+        <e p="ShapesExtensions.cs" t="Include" />
+        <e p="ShapesIO.cs" t="Include" />
+        <e p="ShapesMaterials.cs" t="Include" />
+        <e p="ShapesMaterialUtils.cs" t="Include" />
+        <e p="ShapesMath.cs" t="Include" />
+        <e p="ShapesMeshGen.cs" t="Include" />
+        <e p="ShapesMeshUtils.cs" t="Include" />
+        <e p="ShapesTextDrawer.cs" t="Include" />
+      </e>
+    </e>
+    <e p="E:\BACKUP HELP\FILES\FILES\MathClass" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BezierCurves" t="Include">
+          <e p="BezierCurves.cs" t="Include" />
+        </e>
+        <e p="Lerp" t="Include">
+          <e p="Lerper.cs" t="Include" />
+        </e>
+        <e p="Looking at target check" t="Include">
+          <e p="TargetLook.cs" t="Include" />
+        </e>
+        <e p="PlayingWithShapes.cs" t="Include" />
+        <e p="ShaderClass" t="Include">
+          <e p="SimpleShader_LightDir.shader" t="Include" />
+          <e p="SimpleShader_Normal.shader" t="Include" />
+          <e p="SimpleShader_RemappedNormal.shader" t="Include" />
+          <e p="SimpleShader_UV.shader" t="Include" />
+        </e>
+        <e p="Trajectories" t="Include">
+          <e p="TrajectoriesTest.cs" t="Include" />
+        </e>
+        <e p="Velocity" t="Include">
+          <e p="CamMovement.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MathClass.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="ShapesEditor.csproj" t="IncludeRecursive" />
+      <e p="ShapesRuntime.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
