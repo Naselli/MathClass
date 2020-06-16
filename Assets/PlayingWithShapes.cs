@@ -24,6 +24,7 @@ public class PlayingWithShapes : MonoBehaviour
         
         Draw.Line( Vector3.zero , Vector3.right , Color.red );
         Draw.Line( Vector3.zero , Vector3.up , Color.green );
+        Draw.Line( Vector3.zero , Vector3.forward , Color.blue );
     }
 
     private void Update(){

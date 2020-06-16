@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\conta\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\conta\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_MathClass.1228499632.00" t="ExcludeRecursive" />
+    <e p="C:\Users\conta\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_MathClass.327406932.00" t="ExcludeRecursive" />
     <e p="C:\Users\conta\Desktop\Shapes-master\Scripts\Editor" t="Include">
       <e p="Components" t="Include">
         <e p="ConeEditor.cs" t="Include" />
@@ -80,7 +80,7 @@
         <e p="ShapesTextDrawer.cs" t="Include" />
       </e>
     </e>
-    <e p="E:\BACKUP HELP\FILES\FILES\MathClass" t="IncludeRecursive">
+    <e p="C:\Users\conta\Documents\MathClass" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="BezierCurves" t="Include">
