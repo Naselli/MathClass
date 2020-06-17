@@ -17,14 +17,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58579211-24a6-4799-ad26-b7733fff9737" name="Default Changelist" comment="Commit version date 2020_06_17">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/.idea.MathClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MathClass/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +33,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/GlyphMetricsPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Looking at target check/TargetLook.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.14/Editor/CurveEditUtility.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Trajectories/TrajectoriesTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lerp/Lerper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.0.1/Scripts/Editor/GlyphMetricsPropertyDrawer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Trajectories/TrajectoriesTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/TargetLook.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PlayingWithShapes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Velocity/CamMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Looking at target check/LookingAtTarget.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shapes.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Looking at target check/TargetLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///BezierCurves.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.2.14/Editor/CurveEditUtility.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/Shapes-master/Scripts/Runtime/ShapesConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/Desktop/Shapes-master/Shaders/Shapes Config.cginc" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Velocity/CamMovement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayingWithShapes.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -64,8 +63,8 @@
         <option value="$PROJECT_DIR$/Assets/SimpleShader_RemappedNormal.shader" />
         <option value="$PROJECT_DIR$/Assets/SimpleShader_Normal.shader" />
         <option value="$PROJECT_DIR$/Assets/SimpleShader_LightDir.shader" />
-        <option value="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayingWithShapes.cs" />
+        <option value="$PROJECT_DIR$/Assets/BezierCurves/BezierCurves.cs" />
       </list>
     </option>
   </component>
@@ -76,6 +75,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -148,6 +148,8 @@
       <workItem from="1592311969684" duration="675000" />
       <workItem from="1592313288628" duration="1877000" />
       <workItem from="1592319650765" duration="908000" />
+      <workItem from="1592327714901" duration="1900000" />
+      <workItem from="1592422717040" duration="6854000" />
     </task>
     <task id="LOCAL-00001" summary="Commit version date 2020_06_17">
       <created>1592313582007</created>
@@ -211,17 +213,21 @@
       <screen x="33" y="0" width="1887" height="1080" />
     </state>
     <state x="413" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/33.0.1887.1080/1952.0.1888.1080@33.0.1887.1080" timestamp="1589914712414" />
-    <state x="723" y="257" key="RiderGenerateDialog" timestamp="1592148792727">
+    <state x="74" y="164" width="1736" height="866" key="DiffContextDialog" timestamp="1592423170494">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="74" y="164" width="1736" height="866" key="DiffContextDialog/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1592423170494" />
+    <state x="723" y="257" key="RiderGenerateDialog" timestamp="1592423415601">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="723" y="257" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590876408108" />
-    <state x="723" y="257" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1592148792727" />
+    <state x="723" y="257" key="RiderGenerateDialog/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1592423415601" />
     <state x="2663" y="264" key="RiderGenerateDialog/33.0.1887.1080/1952.0.1888.1080@1952.0.1888.1080" timestamp="1588511822782" />
-    <state x="360" y="257" width="933" height="708" key="SettingsEditor" timestamp="1592312621318">
+    <state x="360" y="257" width="933" height="708" key="SettingsEditor" timestamp="1592428984663">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="441" y="214" width="933" height="708" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1590878561382" />
-    <state x="360" y="257" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1592312621318" />
+    <state x="360" y="257" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1080@0.0.1920.1050" timestamp="1592428984663" />
     <state x="2741" y="231" width="916" height="708" key="SettingsEditor/33.0.1887.1080/1952.0.1888.1080@1952.0.1888.1080" timestamp="1588432338036" />
     <state x="466" y="220" key="SettingsEditor/33.0.1887.1080/1952.0.1888.1080@33.0.1887.1080" timestamp="1589914951492" />
     <state width="507" height="434" key="SwitcherDM" timestamp="1591137407578">
